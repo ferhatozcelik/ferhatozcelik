@@ -1,7 +1,7 @@
-# 💫 About Me:
-Hi 👋 My name is Ferhat ÖZÇELİK<br>I'm Android Developer
+Hi 👋 My name is Ferhat ÖZÇELİK
+===============================
 
-
+* 🚀  I'm Android Developer
 
 
 # 💻 Tech Stack:
